@@ -1,0 +1,14 @@
+class Sub{
+
+public static void main(String[] args) {
+
+int a=80,b=56;
+
+int res=a-b;
+
+System.out.print("Subtraction is "+res);
+
+}
+
+
+
