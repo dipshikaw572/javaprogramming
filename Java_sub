@@ -1,9 +1,0 @@
-class Sub{
-public static void main(String[] args) {
-int a=90,b=58;
-int res=a-b;
-System.out.print("Subtraction is "+res);
-           }
-
-
-
